@@ -18,6 +18,6 @@ def fibonacci():
                 first = second
                 second = temp
             print(fib)
+            break
             
-
 fibonacci()
